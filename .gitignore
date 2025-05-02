@@ -1,0 +1,9 @@
+# PyCharm configuration files
+.idea/
+
+# Python bytecode files
+__pycache__/
+
+# Other Python-related files
+*.pyc
+*.pyo
