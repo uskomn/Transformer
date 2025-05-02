@@ -106,3 +106,5 @@ print(f"Test Bleu{ave_bleu:.4f}")
 
 torch.save(model.state_dict(),'./model/transformer.pt')
 print("Model saved")
+
+print("只是一个修改测试")
