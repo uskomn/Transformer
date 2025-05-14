@@ -7,3 +7,9 @@ __pycache__/
 # Other Python-related files
 *.pyc
 *.pyo
+
+# 模型
+*.pt
+model/
+data/
+wmt14_fr_en_arrow
